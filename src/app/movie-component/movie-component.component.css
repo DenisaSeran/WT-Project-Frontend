@@ -1,0 +1,12 @@
+.card{
+    width: 25%;
+    height: 400px;
+    background-color: rgba(234, 241, 238, 0.5);
+    margin: auto;
+    margin-bottom: 2%;
+}
+mat-card img{
+    object-fit: fill;
+    width: 35%;
+    height: 50%;
+}
